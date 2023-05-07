@@ -1,1 +1,3 @@
-# HITszOJ_DataStructure
+## HITsz（大一春季学期）数据结构实验课
+### 代码均已通过OJ平台用例测试(Accepted)
+### 对于处理边界数据可能不够完善 欢迎指出交流
